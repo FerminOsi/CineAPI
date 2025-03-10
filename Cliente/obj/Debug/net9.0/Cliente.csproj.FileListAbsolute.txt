@@ -1,0 +1,14 @@
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\bin\Debug\net9.0\Cliente.exe
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\bin\Debug\net9.0\Cliente.deps.json
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\bin\Debug\net9.0\Cliente.runtimeconfig.json
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\bin\Debug\net9.0\Cliente.dll
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\bin\Debug\net9.0\Cliente.pdb
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\Cliente.AssemblyInfoInputs.cache
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\Cliente.AssemblyInfo.cs
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\Cliente.csproj.CoreCompileInputs.cache
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\Cliente.dll
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\refint\Cliente.dll
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\Cliente.pdb
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\Cliente.genruntimeconfig.cache
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Cliente\obj\Debug\net9.0\ref\Cliente.dll

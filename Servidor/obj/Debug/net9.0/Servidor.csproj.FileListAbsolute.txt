@@ -1,0 +1,14 @@
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\Servidor.AssemblyInfoInputs.cache
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\Servidor.AssemblyInfo.cs
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\Servidor.csproj.CoreCompileInputs.cache
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\bin\Debug\net9.0\Servidor.exe
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\bin\Debug\net9.0\Servidor.deps.json
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\bin\Debug\net9.0\Servidor.runtimeconfig.json
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\bin\Debug\net9.0\Servidor.dll
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\bin\Debug\net9.0\Servidor.pdb
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\Servidor.dll
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\refint\Servidor.dll
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\Servidor.pdb
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\Servidor.genruntimeconfig.cache
+D:\MARIANASANZ\2_DAM\2EV\PSEP\CineApi\Servidor\obj\Debug\net9.0\ref\Servidor.dll
